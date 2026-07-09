@@ -19,7 +19,7 @@ This repository presents a professional-grade manual testing project for the **A
 * Detailed completion reporting with execution insights and overall pass/fail metrics.
 * Validation of user interface, form validations, authentication, and search functionalities.
 * Well-documented bug reports and improvement recommendations for better software quality.
-* Structured traceability and systematic QA checklists.
+
 
 ## Screenshots
 ![Signup 1](Images/Signup1.png)
@@ -51,3 +51,5 @@ This repository presents a professional-grade manual testing project for the **A
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/farhad-nuri-ba99a62a5/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:farhadnuri559@gmail.com)
+
+---
